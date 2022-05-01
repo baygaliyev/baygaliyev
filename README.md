@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baygaliyev
-- 👀 I’m interested in Data Science, FinTech, digital marketing and Urban Science
-- 🌱 I’m currently learning analysis of time series
+- 👀 I’m interested in Data Science, FinTech, Digital Marketing and Urbanism
+- 🌱 I’m currently learning analysis of time series and distributions
 - 💞️ I’m looking to collaborate on projects related to finance and urban data science
 
 
