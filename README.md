@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baygaliyev
 - 👀 I’m interested in Data Science, Business, Urban Studies
-- 🌱 I’m currently learning analysis of time series and distributions
+- 🌱 I’m currently learning MATSim
 - 💞️ I’m looking to collaborate on projects related to finance and urban data science
 
 
