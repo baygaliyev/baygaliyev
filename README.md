@@ -39,7 +39,7 @@ documents its own limitations rather than only the wins.
 
 | Paper | Venue |
 |---|---|
-| *Exposure-Aware Joint Pedestrian–Vehicle Routing* | Springer MONET, 2025 (journal) |
+| *Vehicle-Pedestrian Optimization Framework for Exposure-Aware Routing* | Mobile Networks and Applications, 2025 (journal) |
 | *Optimization of Exposure-Aware Routing for Vehicles and Pedestrians* | SSTD, 2025 |
 | *Exploiting Vehicular Data for Exposure-Aware Pedestrian Routing* | IEEE MDM, 2025 |
 | *From GPS Traces to Individual Emission Exposure: A Data-Driven Four-Step Process* | EAI INTSYS, 2024 |
