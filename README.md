@@ -1,6 +1,6 @@
 # Gurban Aliyev
 
-I work on **who gets exposed to what, and where** — using GPS trajectory data,
+I work on **who gets exposed to what and where** — using GPS trajectory data,
 network science and agent-based simulation.
 
 📍 Pisa, Italy · ✉️ [qrb.aliyev@gmail.com](mailto:qrb.aliyev@gmail.com)
