@@ -7,7 +7,11 @@ network science and agent-based simulation.
 
 ## Current
 
-- **Visiting Researcher**, MRC Epidemiology Unit, University of Cambridge
+- **Postdoctoral Researcher**, University of Augsburg — Chair of Model-based
+  Environmental Exposure Sciences (MBEES), EU Horizon Europe **PUREPOLIS**
+  (Oct 2026 – Oct 2027). Agent-based (MATSim) population mobility for the Nantes
+  and Valencia living labs, feeding exposure and health-impact assessment.
+- **Visiting Researcher (remote)**, MRC Epidemiology Unit, University of Cambridge
   (Nov 2025 – Dec 2026) — route choice under flood and heat scenarios using MATSim
 - **PhD in AI for Society**, University of Pisa — defended **28 August 2026 with
   distinction**. Thesis: *Analysis and Routing-Based Mitigation of Vehicular Air
@@ -29,6 +33,9 @@ only for speed.
   hypervolume contribution
 - **MATSim route choice** under flood and heat scenarios (Greater Manchester,
   synthetic data)
+- **Population mobility modelling** — agent-based (MATSim) simulation of
+  full-population daily activities for population exposure and health-impact
+  assessment (PUREPOLIS, Nantes & Valencia living labs)
 
 The honest version: most of my headline results come from **constrained-route
 scenarios on synthetic city models**, not measured populations, and the
