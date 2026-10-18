@@ -54,8 +54,18 @@ documents its own limitations rather than only the wins.
 | [eide](https://github.com/baygaliyev/eide) | Code for the four-step GPS-trace → emission-exposure process (INTSYS 2024). |
 | [matsim-project-gurban](https://github.com/baygaliyev/matsim-project-gurban) | *Fork of upstream MATSim* — my own experiment scripts for flood/heat route choice. |
 
-Also here: MSc coursework notebooks (data mining, social network analysis, big
-data analytics) and a few forks.
+## Coursework (MSc, University of Pisa)
+
+| Repo | What it is |
+|---|---|
+| [unipi_data_mining_1](https://github.com/baygaliyev/unipi_data_mining_1) | Telco customer churn — K-Means, DBSCAN and hierarchical clustering, compared by silhouette. |
+| [data_mining_2](https://github.com/baygaliyev/data_mining_2) | Air-quality time series — clustering, sequential patterns, k-NN / decision-tree classification, outlier detection. |
+| [social_network_analysis](https://github.com/baygaliyev/social_network_analysis) | Stack Overflow hashtag graph — topology, community detection, link prediction. |
+| [big_data_analytics](https://github.com/baygaliyev/big_data_analytics) | Car-crash prediction from individual mobility networks (London, Rome, Tuscany). |
+
+Also here: [SARN](https://github.com/baygaliyev/SARN) (fork of the EDBT 2023
+road-network-embedding code) and [RFNEmission](https://github.com/baygaliyev/RFNEmission)
+(GCN road-emission prediction, extended with train/eval scripts).
 
 ## Tooling
 
