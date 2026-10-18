@@ -69,6 +69,13 @@ documents its own limitations rather than only the wins.
 | [social_network_analysis](https://github.com/baygaliyev/social_network_analysis) | Stack Overflow hashtag graph — topology, community detection, link prediction. |
 | [big_data_analytics](https://github.com/baygaliyev/big_data_analytics) | Car-crash prediction from individual mobility networks (London, Rome, Tuscany). |
 
+## Coursework (PhD, University of Pisa)
+
+| Repo | What it is |
+|---|---|
+| [deep_learning_lung_nodule_segmentation](https://github.com/baygaliyev/deep_learning_lung_nodule_segmentation) | Res U-Net vs. Attention U-Net vs. Attention Res U-Net for 2D lung-nodule segmentation on LUNA16 CT scans (TensorFlow/Keras). |
+| [xai_breast_tumor_explainability](https://github.com/baygaliyev/xai_breast_tumor_explainability) | Explaining a breast-tumour classifier with LIME, LORE and SHAP, against interpretable logistic-regression and decision-tree models. |
+
 Also here: [SARN](https://github.com/baygaliyev/SARN) (fork of the EDBT 2023
 road-network-embedding code) and [RFNEmission](https://github.com/baygaliyev/RFNEmission)
 (GCN road-emission prediction, extended with train/eval scripts).
