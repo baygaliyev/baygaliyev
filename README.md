@@ -58,7 +58,7 @@ documents its own limitations rather than only the wins.
 |---|---|
 | [exawaro](https://github.com/baygaliyev/exawaro) | Exposure-aware routing and behaviour simulation for pedestrians and vehicles on OpenStreetMap networks. Python (`osmnx`, `networkx`, `shapely`). Code from my thesis. |
 | [eide](https://github.com/baygaliyev/eide) | Code for the four-step GPS-trace → emission-exposure process (INTSYS 2024). |
-| [matsim-project-gurban](https://github.com/baygaliyev/matsim-project-gurban) | *Fork of upstream MATSim* — my own experiment scripts for flood/heat route choice. |
+| [matsim-manchester-flood-heat-routing](https://github.com/baygaliyev/matsim-manchester-flood-heat-routing) | *Fork of upstream MATSim* — my own experiment scripts for flood/heat route choice. |
 
 ## Coursework (MSc, University of Pisa)
 
