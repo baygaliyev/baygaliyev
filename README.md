@@ -2,8 +2,6 @@
 
 I work on **who gets exposed to what and where** — using GPS trajectory data, network science and agent-based simulation.
 
-📍 Germany · ✉️ [qrb.aliyev@gmail.com](mailto:qrb.aliyev@gmail.com)
-
 ## Current
 
 - **Postdoctoral Researcher**, University of Augsburg — Chair of Model-based
