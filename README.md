@@ -8,8 +8,9 @@ I work on **who gets exposed to what and where** — using GPS trajectory data, 
   Environmental Exposure Sciences (MBEES), EU Horizon Europe **PUREPOLIS**
   (Oct 2026 – Oct 2027). Agent-based (MATSim) population mobility for the Nantes
   and Valencia living labs, feeding exposure and health-impact assessment.
-- **Visiting Researcher (remote)**, MRC Epidemiology Unit, University of Cambridge
-  (Nov 2025 – Dec 2026) — route choice under flood and heat scenarios using MATSim
+- **Visiting Researcher (remote)**, MRC Epidemiology Unit, Institute of Medical Sciences
+  (IMS), University of Cambridge (Nov 2025 – Dec 2026) — route choice under flood
+  and heat scenarios using MATSim
 - **PhD in AI for Society**, University of Pisa — defended **28 August 2026 with
   distinction**. Thesis: *Analysis and Routing-Based Mitigation of Vehicular Air
   Pollution Exposure*
@@ -43,19 +44,22 @@ documents its own limitations rather than only the wins.
 
 | Paper | Venue |
 |---|---|
-| *Vehicle-Pedestrian Optimization Framework for Exposure-Aware Routing* | Mobile Networks and Applications, 2025 (journal) |
-| *Optimization of Exposure-Aware Routing for Vehicles and Pedestrians* | SSTD, 2025 |
-| *Exploiting Vehicular Data for Exposure-Aware Pedestrian Routing* | IEEE MDM, 2025 |
-| *From GPS Traces to Individual Emission Exposure: A Data-Driven Four-Step Process* | EAI INTSYS, 2024 |
-| *Analysis, Prediction and Mitigation of Exposure to Vehicular Air Pollution* | SEBD, 2023 |
-| *Optimizing Exposure-Aware Routing for Vehicles and Pedestrians* | CCS, 2025 (poster) |
+| *Vehicle-Pedestrian Optimization Framework for Exposure-Aware Routing* | [Mobile Networks and Applications 30(1):325–340, 2025](https://doi.org/10.1007/s11036-025-02459-4) (journal) |
+| *Optimization of Exposure-Aware Routing for Vehicles and Pedestrians* | [ACM SSTD '25, pp. 119–122](https://doi.org/10.1145/3748777.3748808) — also presented as a **poster at CCS 2025** (Conference on Complex Systems, Siena); poster only, no talk |
+| *Exploiting Vehicular Data for Exposure-Aware Pedestrian Routing* | [IEEE MDM 2025, pp. 11–19](https://doi.org/10.1109/MDM65600.2025.00022) |
+| *From GPS Traces to Individual Emission Exposure: A Data-Driven Four-Step Process* | [EAI INTSYS 2024, LNCS 578:64–82](https://doi.org/10.1007/978-3-031-86370-7_5) |
+| *Analysis, Prediction and Mitigation of Exposure to Vehicular Air Pollution* | [SEBD 2023, CEUR WS 3478:674–680](https://ceur-ws.org/Vol-3478/paper13.pdf) |
+
+Full list: <https://kdd.isti.cnr.it/publications/filter> (matches ORCID, DBLP, Semantic Scholar).
+PhD thesis (open access, CC BY): *Analysis and Routing-Based Mitigation of Vehicular
+Air Pollution Exposure*, Università di Pisa / CNR — URN `etd-08142026-182359`.
 
 ## Repos
 
 | Repo | What it is |
 |---|---|
-| [exawaro](https://github.com/baygaliyev/exawaro) | Exposure-aware routing and behaviour simulation for pedestrians and vehicles on OpenStreetMap networks. Python (`osmnx`, `networkx`, `shapely`). Code from my thesis. |
-| [eide](https://github.com/baygaliyev/eide) | Code for the four-step GPS-trace → emission-exposure process (INTSYS 2024). |
+| [exawaro](https://github.com/baygaliyev/exawaro) | Exposure-aware routing and behaviour simulation for pedestrians and vehicles on OpenStreetMap networks. Python (`osmnx`, `networkx`, `shapely`). Code from my thesis. MIT licence. |
+| [eide](https://github.com/baygaliyev/eide) | Code for the four-step GPS-trace → emission-exposure process (INTSYS 2024). MIT licence. |
 | [matsim-manchester-flood-heat-routing](https://github.com/baygaliyev/matsim-manchester-flood-heat-routing) | *Fork of upstream MATSim* — my own experiment scripts for flood/heat route choice. |
 
 ## Coursework (MSc, University of Pisa)
@@ -71,7 +75,7 @@ documents its own limitations rather than only the wins.
 
 | Repo | What it is |
 |---|---|
-| [deep_learning_lung_nodule_segmentation](https://github.com/baygaliyev/deep_learning_lung_nodule_segmentation) | Res U-Net vs. Attention U-Net vs. Attention Res U-Net for 2D lung-nodule segmentation on LUNA16 CT scans (TensorFlow/Keras). |
+| [deep_learning_lung_nodule_segmentization](https://github.com/baygaliyev/deep_learning_lung_nodule_segmentization) | Res U-Net vs. Attention U-Net vs. Attention Res U-Net for lung-nodule segmentation on LUNA16 CT scans (TensorFlow/Keras). |
 | [xai_breast_tumor_explainability](https://github.com/baygaliyev/xai_breast_tumor_explainability) | Explaining a breast-tumour classifier with LIME, LORE and SHAP, against interpretable logistic-regression and decision-tree models. |
 
 Also here: [SARN](https://github.com/baygaliyev/SARN) (fork of the EDBT 2023
